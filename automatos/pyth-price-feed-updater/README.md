@@ -1,5 +1,9 @@
 # Pyth Price Feed Updater Performance Reports
 
+Adrastia's Pyth Price Feed Updater is a white-glove service that streamlines the process of updating Pyth feeds with the utmost reliability, precision, and speed.
+
+For more information, please visit our documentation: https://docs.adrastia.io/automatos/pyth-price-feed-updater
+
 ## April, 2025
 
 - Gravity blockchain: https://x.com/AdrastiaOracle/status/1919453761703182446
